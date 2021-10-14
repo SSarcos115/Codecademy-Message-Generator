@@ -1,0 +1,21 @@
+body {
+    margin: 2%;
+}
+
+.header {
+    text-align: center;
+    font-size: large;
+}
+
+.button {
+    text-align: center;
+    padding: 10px 3px 10px; 
+}
+
+#quoteDisplay {
+    border: 3px solid red;
+    padding: 5%;
+    text-align: center;
+    background-color: #cdcdcd;
+    
+}
