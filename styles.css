@@ -13,9 +13,10 @@ body {
 }
 
 #quoteDisplay {
-    border: 3px solid red;
-    padding: 5%;
+    border: 2px solid black;
+    padding: 41.031px;
+    margin: 30px 25% 30px 25%;
     text-align: center;
-    background-color: #cdcdcd;
-    
+    background-color: rgba(0, 0, 0, 0.10); 
+    color: black;
 }
